@@ -1,11 +1,10 @@
 ## SQL Parser and AST Visualization
 
-This repository provides a Python implementation for parsing SQL queries and generating an Abstract Syntax Tree (AST). Additionally, it includes functionality to visualize the AST using a graph representation. A modified branch from @Daniel4SE/SQLAST
+This repository provides a Python implementation for parsing SQL queries and generating an Abstract Syntax Tree (AST). Additionally, it includes functionality to visualize the AST using a graph representation. A modified branch from [@Daniel4SE/SQLAST](https://github.com/Daniel4SE/SQLAST)
 
 ### Installation
 
 1. Clone the repository to your local machine:
-
 2. Install the required dependencies:
 
 ### Usage
