@@ -1,4 +1,4 @@
-## SQL Parser and AST Visualization
+## Tree Similarity of Editing Distance 
 
 This repository provides a Python implementation for parsing SQL queries and generating an Abstract Syntax Tree (AST). Additionally, it includes functionality to visualize the AST using a graph representation. A modified branch from [@Daniel4SE/SQLAST](https://github.com/Daniel4SE/SQLAST)
 
